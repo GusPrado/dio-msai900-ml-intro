@@ -2,7 +2,7 @@
 
 ## Laboratório realizado no MS Azure sobre criação e treinamento de modelos de IA
 
-Link oficial disponível [aqui]('https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html')
+*Link oficial disponível [aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)*
 
 Os passos para se chegar ao uso de um modelo treinado no Azure Machine Learning Studio (supondo que voce já tenha uma conta na plataforma MS Azure):
 
